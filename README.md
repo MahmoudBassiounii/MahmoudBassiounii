@@ -38,9 +38,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 
   <!-- GIS -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Leaflet_Logo.svg" alt="Leaflet" width="50" height="50"/> &nbsp;
   <img src="https://github.com/MahmoudBassiounii/MahmoudBassiounii/blob/main/assets/esri-seeklogo.png?raw=true" width="50"/>
   <img src="https://github.com/MahmoudBassiounii/MahmoudBassiounii/blob/main/assets/HexgonLogo.png?raw=true" width="50"/>
+  <img src="https://github.com/MahmoudBassiounii/MahmoudBassiounii/blob/main/assets/leaflet-seeklogo.png?raw=true" width="50"/>
 
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50"/> &nbsp;
