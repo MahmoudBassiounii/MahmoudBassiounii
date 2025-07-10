@@ -39,8 +39,8 @@
 
   <!-- GIS -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Leaflet_Logo.svg" alt="Leaflet" width="50" height="50"/> &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Esri_logo.svg/1024px-Esri_logo.svg.png" alt="ESRI" width="50" height="50"/> &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Hexagon_Logo.png" alt="Erdas Imagine" width="50" height="50"/> &nbsp;
+  <img src="https://github.com/YOUR_USERNAME/MahmoudBassiounii/blob/main/assets/esri-seeklogo.png?raw=true" width="50"/>
+  <img src="https://github.com/YOUR_USERNAME/MahmoudBassiounii/blob/main/assets/HexgonLogo.png?raw=true" width="50"/>
 
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50"/> &nbsp;
