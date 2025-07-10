@@ -68,10 +68,11 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&lines=Thanks+for+visiting!+🌟;Keep+coding+💻+and+stay+awesome+🚀" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&lines=Thanks+for+visiting!+🌟;Keep+coding+💻;Stay+awesome+🚀" 
     alt="Thanks Typing"
   />
 </p>
+
 
 
 <p align="center"><i>Designed with ❤️ by Mahmoud Bassiouny</i></p>
