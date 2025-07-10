@@ -8,18 +8,25 @@
   <img src="https://komarev.com/ghpvc/?username=MahmoudBassiounii&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MahmoudBassiounii/MahmoudBassiounii/main/assets/animated-coding.gif" alt="Coding Animation" width="400"/>
-</p>
-
 ---
 
 ## 🧠 About Me
 
-- 🔭 Working on **GIS web apps** using `.NET`, `Angular`, `PostgreSQL/PostGIS`, `Leaflet`
-- 🌱 Exploring `Docker`, `Linux`, and modern `DevOps` practices
-- 🗺️ Turning spatial data into **interactive maps** and real-world insights
-- 🎯 Passionate about automation, clean code & meaningful UI
+<table>
+  <tr>
+    <td>
+
+- 🔭 Working on **GIS web apps** using `.NET`, `Angular`, `PostgreSQL/PostGIS`, `Leaflet`  
+- 🌱 Exploring `Docker`, `Linux`, and modern `DevOps` practices  
+- 🗺️ Turning spatial data into **interactive maps** and real-world insights  
+- 🎯 Passionate about automation, clean code & meaningful UI  
+
+   </td>
+   <td align="center">
+     <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programming Animation" width="300"/>
+   </td>
+  </tr>
+</table>
 
 ---
 
@@ -28,18 +35,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=csharp,dotnet,bash,postgresql,mysql,mssql,html,css,sass,js,angular,react,tailwind,bootstrap,leaflet,docker,linux,vscode,visualstudio,github,ubuntu" />
   <br/><br/>
-  <!-- Custom GIS Logos -->
   <img src="https://github.com/MahmoudBassiounii/MahmoudBassiounii/blob/main/assets/esri-seeklogo.png?raw=true" alt="ESRI" width="40" />
   &nbsp;&nbsp;
   <img src="https://github.com/MahmoudBassiounii/MahmoudBassiounii/blob/main/assets/HexgonLogo.png?raw=true" alt="Hexagon" width="40" />
-</p>
-
----
-
-## 📸 Programming Vibes
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programming Vibes" width="400"/>
 </p>
 
 ---
@@ -66,11 +64,12 @@
 
 ---
 
+## 🙏 Final Greeting
+
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&lines=Thanks+for+visiting!+🌟;Keep+coding+and+stay+awesome+🚀;" 
-    alt="Thanks Typing" 
-    style="height: 80px;"
+    alt="Thanks Typing"
   />
 </p>
 
