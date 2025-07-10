@@ -33,15 +33,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudBassiounii&show_icons=true&theme=radical" alt="Mahmoud's GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudBassiounii&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
 
 ## 📫 Connect with Me
 
