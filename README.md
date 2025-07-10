@@ -33,8 +33,11 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=csharp,dotnet,bash,postgresql,mysql,mssql,html,css,sass,js,angular,react,tailwind,bootstrap,leaflet,docker,linux,vscode,visualstudio,github,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=csharp,dotnet,bash,postgresql,mysql,html,css,sass,js,angular,react,tailwind,bootstrap,leaflet,docker,linux,vscode,visualstudio,github,ubuntu" />
   <br/><br/>
+  <!-- أيقونة SQL Server -->
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" width="40" />
+  &nbsp;&nbsp;
   <img src="https://github.com/MahmoudBassiounii/MahmoudBassiounii/blob/main/assets/esri-seeklogo.png?raw=true" alt="ESRI" width="40" />
   &nbsp;&nbsp;
   <img src="https://github.com/MahmoudBassiounii/MahmoudBassiounii/blob/main/assets/HexgonLogo.png?raw=true" alt="Hexagon" width="40" />
@@ -68,11 +71,9 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&lines=Thanks+for+visiting!+🌟;Keep+coding+💻;Stay+awesome+🚀" 
-    alt="Thanks Typing"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&lines=Thanks+for+visiting!+🌟;Keep+coding+💻;Stay+awesome+🚀" 
+    alt="Typing SVG"
   />
 </p>
-
-
 
 <p align="center"><i>Designed with ❤️ by Mahmoud Bassiouny</i></p>
