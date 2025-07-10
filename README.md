@@ -12,6 +12,8 @@
   <img src="https://raw.githubusercontent.com/MahmoudBassiounii/MahmoudBassiounii/main/assets/animated-coding.gif" alt="Coding Animation" width="400"/>
 </p>
 
+---
+
 ## 🧠 About Me
 
 - 🔭 Working on **GIS web apps** using `.NET`, `Angular`, `PostgreSQL/PostGIS`, `Leaflet`
@@ -25,15 +27,22 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=csharp,dotnet,bash,postgresql,mysql,mssql,html,css,sass,js,angular,react,tailwind,bootstrap,leaflet,docker,linux,vscode,visualstudio,github,ubuntu" />
-  <br/>
+  <br/><br/>
   <!-- Custom GIS Logos -->
-  <img src="https://github.com/MahmoudBassiounii/MahmoudBassiounii/blob/main/assets/esri-seeklogo.png?raw=true" alt="ESRI" width="50" />
-  <img src="https://github.com/MahmoudBassiounii/MahmoudBassiounii/blob/main/assets/HexgonLogo.png?raw=true" alt="Hexagon" width="50" />
+  <img src="https://github.com/MahmoudBassiounii/MahmoudBassiounii/blob/main/assets/esri-seeklogo.png?raw=true" alt="ESRI" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/MahmoudBassiounii/MahmoudBassiounii/blob/main/assets/HexgonLogo.png?raw=true" alt="Hexagon" width="40" />
 </p>
 
 ---
 
+## 📸 Programming Vibes
 
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programming Vibes" width="400"/>
+</p>
+
+---
 
 ## 📫 Connect with Me
 
@@ -57,7 +66,7 @@
 
 ---
 
-<p align="center" height="600>
+<p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&lines=Thanks+for+visiting!+🌟;Keep+coding+and+stay+awesome+🚀;" 
     alt="Thanks Typing" 
