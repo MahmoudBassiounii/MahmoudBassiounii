@@ -34,7 +34,8 @@
 
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/> &nbsp;
-  <img src="https://img.icons8.com/ios-filled/50/CC2927/microsoft-sql-server.png" alt="SQL Server" width="50" height="50"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 
   <!-- GIS -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Leaflet_Logo.svg" alt="Leaflet" width="50" height="50"/> &nbsp;
