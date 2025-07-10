@@ -1,92 +1,72 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Bassiouny</h1>
-
-<p align="center">
-  <strong>GIS Developer | .NET Engineer | Full Stack Web Developer</strong>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&color=36BCF7&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahmoud+Bassiouny;GIS+Developer+%7C+.NET+Engineer+%7C+Full+Stack+Developer" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MahmoudBassiounii&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MahmoudBassiounii/MahmoudBassiounii/main/assets/animated-coding.gif" alt="coding" width="400"/>
+  <img src="https://raw.githubusercontent.com/MahmoudBassiounii/MahmoudBassiounii/main/assets/animated-coding.gif" alt="Coding Animation" width="400"/>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 I’m currently developing GIS web applications using **.NET**, **Angular**, **PostgreSQL/PostGIS**, and **Leaflet**  
-- 🌱 I’m expanding my skills in **Docker**, **Linux**, and modern **DevOps** tools  
-- 🗺️ I love solving spatial problems and visualizing geographic data  
-- 💡 I enjoy turning complex maps into powerful insights  
+- 🔭 Working on **GIS web apps** using `.NET`, `Angular`, `PostgreSQL/PostGIS`, `Leaflet`
+- 🌱 Exploring `Docker`, `Linux`, and modern `DevOps` practices
+- 🗺️ Turning spatial data into **interactive maps** and real-world insights
+- 🎯 Passionate about automation, clean code & meaningful UI
 
 ---
 
-## 🚀 Languages and Tools
+## 🚀 Tech Stack
 
 <p align="center">
-
-<!-- Back-End -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"/> &nbsp;
-
-<!-- Databases -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="60" height="60"/> &nbsp;
-
-<!-- Front-End -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50"/> &nbsp;
-
-<!-- GIS -->
-<img src="https://github.com/MahmoudBassiounii/MahmoudBassiounii/blob/main/assets/esri-seeklogo.png?raw=true" width="60" height="60"/> &nbsp;
-<img src="https://github.com/MahmoudBassiounii/MahmoudBassiounii/blob/main/assets/HexgonLogo.png?raw=true" width="60" height="60"/> &nbsp;
-<img src="https://github.com/MahmoudBassiounii/MahmoudBassiounii/blob/main/assets/leaflet-seeklogo.png?raw=true" width="60" height="60"/> &nbsp;
-
-<!-- Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/> &nbsp;
-
-<!-- DevOps / OS -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50" height="50"/>
-
+  <img src="https://skillicons.dev/icons?i=csharp,dotnet,bash,postgresql,mysql,mssql,html,css,sass,js,angular,react,tailwind,bootstrap,leaflet,docker,linux,vscode,visualstudio,github,ubuntu" />
+  <br/>
+  <!-- Custom GIS Logos -->
+  <img src="https://github.com/MahmoudBassiounii/MahmoudBassiounii/blob/main/assets/esri-seeklogo.png?raw=true" alt="ESRI" width="50" />
+  <img src="https://github.com/MahmoudBassiounii/MahmoudBassiounii/blob/main/assets/HexgonLogo.png?raw=true" alt="Hexagon" width="50" />
 </p>
 
 ---
 
-## 📫 How to reach me
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudBassiounii&show_icons=true&theme=radical" alt="Mahmoud's GitHub stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudBassiounii&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📫 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahmoud-bassiounii-3a6634193" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   &nbsp;
   <a href="https://www.facebook.com/mahmoud.Ayman.basiounii.455555" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://wa.me/201151812095" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:mahmoudbassiouny22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Designed with ❤️ by Mahmoud Bassiouny</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&lines=Thanks+for+visiting!+🌟;Keep+coding+and+stay+awesome+🚀;" alt="Thanks Typing" />
 </p>
+
+<p align="center"><i>Designed with ❤️ by Mahmoud Bassiouny</i></p>
